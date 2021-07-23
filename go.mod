@@ -1,8 +1,8 @@
-module github.com/foomo/htpasswd
+module github.com/vauxoo/htpasswd
 
-go 1.12
+go 1.16
 
 require (
-	github.com/GehirnInc/crypt v0.0.0-20190301055215-6c0105aabd46
-	golang.org/x/crypto v0.0.0-20200115085410-6d4e4cb37c7d
+	github.com/GehirnInc/crypt v0.0.0-20200316065508-bb7000b8a962
+	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
 )

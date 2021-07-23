@@ -1,4 +1,6 @@
-![Travis CI](https://travis-ci.org/foomo/htpasswd.svg?branch=master)
+![Travis CI](https://travis-ci.org/vauxoo/htpasswd.svg?branch=master)
+
+Forked from [foomo/htpasswd](https://github.com/foomo/htpasswd).
 
 # This is a simple utility library to manipulate htpasswd files
 
